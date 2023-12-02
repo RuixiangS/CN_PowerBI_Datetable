@@ -1,0 +1,4 @@
+chinesecalendar>=1.9.0
+holidays>=0.37
+pandas==2.1.3
+zhdate>=0.1
